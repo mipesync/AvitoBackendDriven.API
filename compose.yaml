@@ -1,0 +1,7 @@
+﻿services:
+  avitobackenddriven.api:
+    image: avitobackenddriven.api
+    build:
+      context: .
+      dockerfile: AvitoBackendDriven.API/Dockerfile
+
