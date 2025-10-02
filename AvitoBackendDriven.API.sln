@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvitoBackendDriven.API", "AvitoBackendDriven.API\AvitoBackendDriven.API.csproj", "{8EA57FA2-E13F-4189-B7C1-13005DBFD70D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvitoBackendDriven.Infrastructure", "AvitoBackendDriven.Infrastructure\AvitoBackendDriven.Infrastructure.csproj", "{05AAB66F-FFC5-4D0C-B03B-4243E113A8E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvitoBackendDriven.Application", "AvitoBackendDriven.Application\AvitoBackendDriven.Application.csproj", "{831EF33F-EF8D-4401-929C-7B4767A43BF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvitoBackendDriven.Domain", "AvitoBackendDriven.Domain\AvitoBackendDriven.Domain.csproj", "{07527FCA-7913-4B23-B02D-E0FD0DA77489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EA57FA2-E13F-4189-B7C1-13005DBFD70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA57FA2-E13F-4189-B7C1-13005DBFD70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA57FA2-E13F-4189-B7C1-13005DBFD70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA57FA2-E13F-4189-B7C1-13005DBFD70D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05AAB66F-FFC5-4D0C-B03B-4243E113A8E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05AAB66F-FFC5-4D0C-B03B-4243E113A8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05AAB66F-FFC5-4D0C-B03B-4243E113A8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05AAB66F-FFC5-4D0C-B03B-4243E113A8E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831EF33F-EF8D-4401-929C-7B4767A43BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831EF33F-EF8D-4401-929C-7B4767A43BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831EF33F-EF8D-4401-929C-7B4767A43BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831EF33F-EF8D-4401-929C-7B4767A43BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07527FCA-7913-4B23-B02D-E0FD0DA77489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07527FCA-7913-4B23-B02D-E0FD0DA77489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07527FCA-7913-4B23-B02D-E0FD0DA77489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07527FCA-7913-4B23-B02D-E0FD0DA77489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
